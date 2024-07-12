@@ -1,0 +1,2 @@
+# lighttpdtermuxconfig
+Termux Lighttpd configuratiion
